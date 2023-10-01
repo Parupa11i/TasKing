@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E2B61166-5B8A-4AB0-811D-3732F9881807}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.TasKing PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TasKing/Startup.cs">
+    <Files>
+      <File FileName="TasKing/Startup.cs" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TasKing" expanded="True">
+            <Node name="TasKing" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="TasKingData" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Status</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Parupalli/Projects/TasKing/TasKing/TasKingData/SQLTasKingData.cs" relfile="TasKing/TasKingData/SQLTasKingData.cs" line="56" column="1" />
+      <Breakpoint file="/Users/Parupalli/Projects/TasKing/TasKing/TasKingData/SQLTasKingData.cs" relfile="TasKing/TasKingData/SQLTasKingData.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
